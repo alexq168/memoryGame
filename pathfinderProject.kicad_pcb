@@ -382,6 +382,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/3d models/b23b2af1c99153fe488ddd7cfa8304c6e30416d8_mx_.step"
+			(offset
+				(xyz 5 2 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Symbols:LEDRD254W57D500H1070"
 		(layer "F.Cu")
@@ -1648,6 +1659,17 @@
 				(xyz -90 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/3d models/ea4d5fbb7c8fc6a94362763d65bf844b92445756_seeed_studio_xiao_rp2040_v26.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 		(layer "F.Cu")
@@ -2096,6 +2118,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/3d models/b23b2af1c99153fe488ddd7cfa8304c6e30416d8_mx_.step"
+			(offset
+				(xyz 5 2 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -2379,6 +2412,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/3d models/b23b2af1c99153fe488ddd7cfa8304c6e30416d8_mx_.step"
+			(offset
+				(xyz 5 2 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
