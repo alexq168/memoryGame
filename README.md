@@ -15,4 +15,4 @@ I finished my schematic and started working on the design of the PCB.
 
 ## Pathfinder Session 3 - [1 hour]
 What I did:
-Did the design of the PCB, wired it all up and am ready to start on the 3d model.
+Did the design of the PCB, wired it all up and am ready to start on the 3d model. I also reworked the layout of the components on the design.
