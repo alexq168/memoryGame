@@ -393,6 +393,17 @@
 				(xyz -90 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/3d models/DSA_Keycap_CherryMX.step"
+			(offset
+				(xyz -2 -5 10)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Symbols:LEDRD254W57D500H1070"
 		(layer "F.Cu")
@@ -712,6 +723,17 @@
 			(uuid "64afde3a-3577-46f3-b6a2-8acff3fe0b05")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3d models/Blue_LED_5mm_STEP.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Symbols:LEDRD254W57D500H1070"
 		(layer "F.Cu")
@@ -1031,6 +1053,17 @@
 			(uuid "2a703ae2-9d71-4a75-83a9-1adc0f28f355")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3d models/Blue_LED_5mm_STEP.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Symbols:XIAO-RP2040-DIP"
 		(layer "F.Cu")
@@ -1843,7 +1876,7 @@
 		(property "Reference" "SW1"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "e078e87a-32d7-4998-92b0-190ee466fd51")
+			(uuid "860a0177-08db-4e8e-a85e-d5215c705f3c")
 			(effects
 				(font
 					(size 1 1)
@@ -1854,7 +1887,7 @@
 		(property "Value" "SW_Push"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "6aadc081-1c15-4f1a-aed9-7558dc81d6c2")
+			(uuid "05931aa2-1a67-4c4d-9253-799f1485440c")
 			(effects
 				(font
 					(size 1 1)
@@ -1867,7 +1900,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "50b4c995-a9a7-48db-93cd-d846c80c4430")
+			(uuid "3c83287c-015d-4918-9c6f-715a4501aa2c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1880,7 +1913,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f42b7939-32cf-4c54-8f42-39fe0ca1f31b")
+			(uuid "aee41648-a135-45ed-a310-e14e401b7f36")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2127,6 +2160,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -180)
+			)
+		)
+		(model "${KIPRJMOD}/3d models/DSA_Keycap_CherryMX.step"
+			(offset
+				(xyz -2 -5 10)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -2423,6 +2467,17 @@
 			)
 			(rotate
 				(xyz -90 -0 -180)
+			)
+		)
+		(model "${KIPRJMOD}/3d models/DSA_Keycap_CherryMX.step"
+			(offset
+				(xyz -2 -5 10)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -2744,6 +2799,17 @@
 			(uuid "afcf1a9d-e37e-4f3f-974a-74280b7d6aed")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3d models/Blue_LED_5mm_STEP.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 		(layer "F.Cu")
