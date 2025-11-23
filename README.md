@@ -49,3 +49,11 @@ I added the rest of the 3d models, which were the Cherry MX keycap and the 5mm L
 
 <img width="892" height="608" alt="image" src="https://github.com/user-attachments/assets/5cb71c61-c4db-400a-863b-d32acd035158" />
 
+## Pathfinder Session 6 - [2 hours]
+
+What I did:
+
+I attempted to code the memory game but failed, and settled on the base for the game with a random sequence of 3 LEDS flashing, in total, 5 times. I can expand on the code, but do not know how to at this current moment.
+
+<img width="445" height="655" alt="image" src="https://github.com/user-attachments/assets/df82e142-462f-4342-bccf-f9ecaaa7b3e1" />
+<img width="393" height="675" alt="image" src="https://github.com/user-attachments/assets/476fb8fc-e6d9-4a19-b7cf-2bcca15ad957" />
